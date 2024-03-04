@@ -10,8 +10,6 @@ me = {
     'spoken_lang': ['english', 'romanian'],
     'interests': ['data analyst.', 'politics', 'history', 'games', 'reading', 'music'],
     'hobbies': ['frisbee', 'table tennis', 'cycling', 'hiking', 'archery'],
-    
-
 }
 ```
 
