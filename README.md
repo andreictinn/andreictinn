@@ -1,5 +1,9 @@
 ## Hello there :sunrise_over_mountains:
 
+### description: 
+
+As a Data Analyst with expertise from a comprehensive bootcamp, I excel in uncovering actionable insights from raw data to drive informed decision-making. Proficient in statistical methods and visualization techniques, I leverage tools like Pandas to clean and transform data efficiently. My projects include crafting Power BI reports for multinational retailers, catering to C-suite executives' needs with advanced data models and interactive features. I'm adept in handling diverse data formats and processing libraries, mastering SQL for seamless database operations, and navigating essential Cloud technologies such as AWS and Microsoft Azure. My skill set encompasses data visualization, exploratory data analysis, and creating impactful reports using Power BI.
+
 ### a quick dictionary :book: :
 
 ```python
